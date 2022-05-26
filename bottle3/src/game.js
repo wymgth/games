@@ -33,8 +33,8 @@ var overSceneConfig = {
 var config = {
     type: Phaser.CANVAS,
     parent: 'phaser-example',
-    width: 320,
-    height: 480,
+    width: 750,
+    height: 1400,
     physics: {
         default: 'arcade',
         arcade: {
